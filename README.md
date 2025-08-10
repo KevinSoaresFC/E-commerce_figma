@@ -29,6 +29,7 @@ Criar um design navegável e funcional no Figma que solucione problemas reais de
 
 ## 📸 Prévia do projeto
 
+![](telainicial.png)
 As imagens estão disponíveis na pasta /imagens para consulta rápida.
 
 ---
