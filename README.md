@@ -1,4 +1,4 @@
-# 📁 Projeto Figma E-comeerce dev
+# 📁 Projeto Figma | E-comeerce dev
 
 Olá! Esse projeto foi feito como parte do curso de Análise e Desenvolvimento de Sistemas – UNIFECAF.
 Projeto desenvolvido no Figma focado em resolver problemas reais de usabilidade aplicando as etapas do Design Thinking.
