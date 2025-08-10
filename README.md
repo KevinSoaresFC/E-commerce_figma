@@ -40,3 +40,4 @@ As imagens estão disponíveis na pasta /imagens para consulta rápida.
 
 ---
 
+Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
