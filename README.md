@@ -3,6 +3,9 @@
 Olá! Esse projeto foi feito como parte do curso de Análise e Desenvolvimento de Sistemas – UNIFECAF.
 Projeto desenvolvido no Figma focado em resolver problemas reais de usabilidade aplicando as etapas do Design Thinking.
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
+
 ---
 
 ## 📌 Sobre o projeto
