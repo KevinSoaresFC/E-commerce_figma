@@ -40,5 +40,6 @@ As imagens estão disponíveis na pasta /imagens para consulta rápida.
 [https://www.figma.com/design/QjiN0mY02HmiAiWpCBGGfI/E-comeerce-dev?m=auto&t=KxBjGHJVDdvSwrnk-1]
 
 ---
+##👤 Autor
 
 Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
